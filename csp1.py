@@ -11,13 +11,13 @@ from google.cloud import firestore
 # Firebase config
 firebaseConfig = {
     'apiKey': "enter your api key",
-    'authDomain': "carbon-emision.firebaseapp.com",
+    'authDomain': "enter your author domain",
     'projectId': "carbon-emision",
     'storageBucket': "carbon-emision.appspot.com",
-    'messagingSenderId': "868155278267",
-    'appId': "1:868155278267:web:1e982da0e66e04d35f7a9e",
-    'measurementId': "G-PB2M44MM3L",
-    'databaseURL': "https://carbon-emision-default-rtdb.asia-southeast1.firebasedatabase.app/"
+    'messagingSenderId': "enter your mesSenderid",
+    'appId': "enter your appid",
+    'measurementId': "enter your measurement id",
+    'databaseURL': "paste your database URL"
 }
 
 # Initialize Pyrebase
