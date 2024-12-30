@@ -10,7 +10,7 @@ from PIL import Image
 from google.cloud import firestore
 # Firebase config
 firebaseConfig = {
-    'apiKey': "AIzaSyD2Z0OxoF5hXgJUbTkuBQATmc0AId3Z6z8",
+    'apiKey': "enter your api key",
     'authDomain': "carbon-emision.firebaseapp.com",
     'projectId': "carbon-emision",
     'storageBucket': "carbon-emision.appspot.com",
